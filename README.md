@@ -3,18 +3,19 @@
 
 ## Experiencia Laboral
 
-### [Programamos School](https://www.notion.so/escuelaprogramamos/Escuela-Programamos-const-welcome-Hello-World-ff9a280664844ac98ced0543d1293414) (2024 - Actualidad)
+### [Coralibe Centro Comercial Online](https://coralibe.com/) (2023 - NOW)
+- Solución de bugs.
 - Desarrollo de planes de pruebas
 - Diseño de escenarios y casos de pruebas
 - Desarrollo de pruebas Manuales
 - Desarrollo de pruebas Automatizadas Con patron de diseño POM
 
-### [Coralibe Centro Comercial Online](https://coralibe.com/) (2023 - 2024)
-- Solución de bugs.
+### [Programamos School](https://www.notion.so/escuelaprogramamos/Escuela-Programamos-const-welcome-Hello-World-ff9a280664844ac98ced0543d1293414) (2024)
 - Desarrollo de planes de pruebas
 - Diseño de escenarios y casos de pruebas
 - Desarrollo de pruebas Manuales
-- 
+- Desarrollo de pruebas Automatizadas Con patron de diseño POM
+  
 ## Habilidades Técnicas
 - Lenguajes de programación:
   <br>
@@ -63,8 +64,18 @@
 
 ## Educación
 - Ingeniero de sistemas, [Corporación Universitaria del Caribe - CECAR](https://cecar.edu.co/), 2021.
-- Tesis laureada. Desarrollo De Una Tienda Online Para La Floristería Capullos, [Corporación Universitaria del Caribe - CECAR]([https://cecar.edu.co/](https://repositorio.cecar.edu.co/server/api/core/bitstreams/6c2f4559-da18-442b-a5ad-9e84517a74ae/content)), 2021.
+- Tesis laureada. Desarrollo De Una Tienda Online Para La Floristería Capullos, [Corporación Universitaria del Caribe - CECAR](https://repositorio.cecar.edu.co/server/api/core/bitstreams/6c2f4559-da18-442b-a5ad-9e84517a74ae/content), 2021.
 
+
+## Certificaciones
+- [QA desde cero:principios,habilidades y el futuro con la IA](https://cursos.desafiolatam.com/student_certificates/merafp2vzu), 2024.
+- [Tester](https://capacitateparaelempleo.org/verifica/d2f92ee4-ac49-42c6-82a1-07d8d5dc21c5/cb72f04b-f9cf-4f73-baf6-bea6116d14ce), 2019.
+- [Programacion Con javaScript](https://app.aluracursos.com/degree/certificate/ce5daa10-042f-4042-ba3e-34f13e37dec8?lang), 2024.
+- [Git y GitHub: repositorio, commit y versiones](https://app.aluracursos.com/certificate/2ecb23aa-953d-44c6-bf1d-6e924588a2ed?lang), 2024.
+
+## Proyectos Destacados
+- **Automatización de Pruebas de Regresión:** Desarrollé un conjunto completo de pruebas automatizadas que redujeron el tiempo de ejecución de pruebas manuales en un 75%.
+- **Pruebas de rendimiento:** Implementé pruebas de rendimiento para encontrar la cantidad de usuarios que la aplicación podría soportar y así tomar decisiones en cuanto a escalabilidad.
 
 ## Idiomas
 - Español: Nativo.
@@ -72,7 +83,7 @@
 
 ## 🌐 Contacto
 - Email: Ing.wilberbertel@gmail.com
-- LinkedIn: [Wilber Bertel Toscano](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://co.linkedin.com/in/wilber-bertel-537ba2202)
+- LinkedIn: [Wilber Bertel Toscano](https://linkedin.com/in/https://co.linkedin.com/in/wilber-bertel-537ba2202)
 - GitHub: [WilberBertel14](https://github.com/Wilberbertel14/)
 
  
