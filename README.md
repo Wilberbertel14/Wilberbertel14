@@ -83,7 +83,7 @@
 
 ## 🌐 Contacto
 - 📧 Email: Ing.wilberbertel@gmail.com
-- LinkedIn: [Wilber Bertel Toscano](https://linkedin.com/in/https://co.linkedin.com/in/wilber-bertel-537ba2202)
+- LinkedIn: [Wilber Bertel Toscano](https://www.linkedin.com/in/wilberberteltoscano/)
 - GitHub: [WilberBertel14](https://github.com/Wilberbertel14/)
 - GitHub Alternativo: [WilberBertel](https://github.com/wilberbertel)
 - 
