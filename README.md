@@ -1,7 +1,7 @@
-# 💫 Wilber Bertel Toscano:
+# 👨‍💻 Wilber Bertel Toscano:
 ¡Hola! Soy un ingeniero de sistemas apasionado por la calidad del software y especializado en pruebas manuales y automatizadas. Con 25 años y originario de Colombia, estoy siempre en busca de nuevas oportunidades para aprender y sobresalir en el ámbito tecnológico.<br><br>Mi enfoque se centra en asegurar que cada producto de software no solo cumpla con los estándares de calidad más altos, sino que también ofrezca una experiencia impecable para el usuario final. Mi experiencia en pruebas abarca desde la creación de scripts automatizados eficientes hasta la ejecución de pruebas manuales detalladas, garantizando así la robustez y fiabilidad del software.<br><br>Soy una persona joven y entusiasta, con un gran deseo de participar en proyectos innovadores y desafiantes. Mi objetivo es seguir creciendo profesionalmente y contribuir de manera significativa al éxito de los equipos con los que colaboro.<br><br>Si buscas a alguien comprometido con la excelencia y con ganas de enfrentar nuevos retos, ¡no dudes en contactarme!
 
-## Experiencia Laboral
+## 💼 Experiencia Laboral
 
 ### [Coralibe Centro Comercial Online](https://coralibe.com/) (2023 - NOW)
 - Solución de bugs.
@@ -16,7 +16,7 @@
 - Desarrollo de pruebas Manuales
 - Desarrollo de pruebas Automatizadas Con patron de diseño POM
   
-## Habilidades Técnicas
+## 🛠️ Habilidades Técnicas
 - Lenguajes de programación:
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
@@ -62,27 +62,27 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Wilberbertel14&icon=10&color=0)](https://visitcount.itsvg.in)
 
-## Educación
+## 🎓 Educación
 - Ingeniero de sistemas, [Corporación Universitaria del Caribe - CECAR](https://cecar.edu.co/), 2021.
 - Tesis laureada. Desarrollo De Una Tienda Online Para La Floristería Capullos, [Corporación Universitaria del Caribe - CECAR](https://repositorio.cecar.edu.co/server/api/core/bitstreams/6c2f4559-da18-442b-a5ad-9e84517a74ae/content), 2021.
 
 
-## Certificaciones
+## 📜 Certificaciones
 - [QA desde cero:principios,habilidades y el futuro con la IA](https://cursos.desafiolatam.com/student_certificates/merafp2vzu), 2024.
 - [Tester](https://capacitateparaelempleo.org/verifica/d2f92ee4-ac49-42c6-82a1-07d8d5dc21c5/cb72f04b-f9cf-4f73-baf6-bea6116d14ce), 2019.
 - [Programacion Con javaScript](https://app.aluracursos.com/degree/certificate/ce5daa10-042f-4042-ba3e-34f13e37dec8?lang), 2024.
 - [Git y GitHub: repositorio, commit y versiones](https://app.aluracursos.com/certificate/2ecb23aa-953d-44c6-bf1d-6e924588a2ed?lang), 2024.
 
-## Proyectos Destacados
+## 🥇 Proyectos Destacados
 - **Automatización de Pruebas de Regresión:** Desarrollé un conjunto completo de pruebas automatizadas que redujeron el tiempo de ejecución de pruebas manuales en un 75%.
 - **Pruebas de rendimiento:** Implementé pruebas de rendimiento para encontrar la cantidad de usuarios que la aplicación podría soportar y así tomar decisiones en cuanto a escalabilidad.
 
-## Idiomas
+## 🔠 Idiomas
 - Español: Nativo.
 - Inglés: A1.
 
 ## 🌐 Contacto
-- Email: Ing.wilberbertel@gmail.com
+- 📧 Email: Ing.wilberbertel@gmail.com
 - LinkedIn: [Wilber Bertel Toscano](https://linkedin.com/in/https://co.linkedin.com/in/wilber-bertel-537ba2202)
 - GitHub: [WilberBertel14](https://github.com/Wilberbertel14/)
 - GitHub Alternativo: [WilberBertel](https://github.com/wilberbertel)
